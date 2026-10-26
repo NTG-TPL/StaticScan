@@ -18,9 +18,9 @@ struct parse_error {};
 
 template <typename... Ts>
 struct scan_result {
-// ваш код здесь
-// измените реализацию
+    // ваш код здесь
+    // измените реализацию
     int i;
 };
 
-} // namespace stdx::details
+}  // namespace stdx::details

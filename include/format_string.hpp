@@ -93,4 +93,4 @@ void get_placeholder_positions() {  // сигнатуру тоже нужно и
     // ваш код здесь
 }
 
-} // namespace stdx::details
+}  // namespace stdx::details

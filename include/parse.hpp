@@ -75,4 +75,4 @@ void parse_input() {  // поменяйте сигнатуру
     // здесь ваш код
 }
 
-} // namespace stdx::details
+}  // namespace stdx::details
